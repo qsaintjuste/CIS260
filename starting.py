@@ -1,3 +1,8 @@
+# Author:
+# Date: 
+# Description:
+# Version:
+
 from cryptography.fernet import Fernet
 import os
 
