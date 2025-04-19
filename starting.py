@@ -1,7 +1,7 @@
-# Author:
-# Date: 
-# Description:
-# Version:
+# Author: Quincy
+# Date: 04/19/2025
+# Description: This is a simple image encrypter
+# Version: 1.0
 
 from cryptography.fernet import Fernet
 import os
